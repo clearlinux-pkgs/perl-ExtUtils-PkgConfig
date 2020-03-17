@@ -4,7 +4,7 @@
 #
 Name     : perl-ExtUtils-PkgConfig
 Version  : 1.16
-Release  : 2
+Release  : 3
 URL      : https://cpan.metacpan.org/authors/id/X/XA/XAOC/ExtUtils-PkgConfig-1.16.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/X/XA/XAOC/ExtUtils-PkgConfig-1.16.tar.gz
 Summary  : unknown
@@ -83,4 +83,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.1/ExtUtils/PkgConfig.pm
+/usr/lib/perl5/vendor_perl/5.30.2/ExtUtils/PkgConfig.pm
