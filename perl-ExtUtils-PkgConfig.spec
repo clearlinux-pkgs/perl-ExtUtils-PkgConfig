@@ -7,7 +7,7 @@
 #
 Name     : perl-ExtUtils-PkgConfig
 Version  : 1.16
-Release  : 19
+Release  : 20
 URL      : https://cpan.metacpan.org/authors/id/X/XA/XAOC/ExtUtils-PkgConfig-1.16.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/X/XA/XAOC/ExtUtils-PkgConfig-1.16.tar.gz
 Summary  : unknown
